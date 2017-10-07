@@ -1,0 +1,4 @@
+b 6 Hung 2 4 1 2 3 1 1 
+a 12 Chiou 2 3 4 5 7 6 8 
+a 33 Chuang 4 3 0 2 5 3 1 
+s 66 Hsien 3 3 0 12 2 0 1 
